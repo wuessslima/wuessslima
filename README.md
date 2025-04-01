@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Status
-![wuessslima GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dracula)
+![wuessslima GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuessslima&show_icons=true&theme=dracula)
 
 ## 🌱 Learning
 - [MySQL]  
