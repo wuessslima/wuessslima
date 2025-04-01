@@ -4,12 +4,15 @@
 A project to show how to use README  
 
 ## 🚀 How to run the project?  
-1. **Clon**:  
+1. **Clone:**
    ```bash
    git clone https://github.com/user-name/project-name.git
-2 **Install the dependecies:**
+   ```
+2. **Install the dependecies:**
    ```bash
    npm install
-3 **Execute:**
+   ```
+3. **Execute:**
    ```bash
    npm start
+   ```
